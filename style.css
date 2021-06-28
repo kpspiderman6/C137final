@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-image: url("background.jpg");
+    font-family: 'Kirang Haerang', cursive;
+}
+.footer{
+    position: fixed;
+    bottom: 0px;
+    text-align: center;
+    color:powderblue;
+    font-weight: 100;
+    width: 100%;
+    background-color: mediumslateblue;
+}
+.h11{
+    font-size: 20px;
+    width: 100%;
+}
+canvas{
+    border-radius: 5px;
+    border-color: paleturquoise;
+    border-width: 5px;
+    border-style: solid;
+}
